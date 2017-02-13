@@ -1,0 +1,21 @@
+<script type="text/javascript" src="jquery-1.8.3.js"></script>
+<script src="js/fst.js"></script>	
+
+<script>
+var c = (b - a) * 100 / b
+if (c < 10)		{
+	document.write("3 hoses");	}
+else if (c < 15)	{
+	document.write("2 hoses");	}
+else if (c < 25)	{
+	document.write("1 hose");	} 
+else {hoses = "0";	}
+</script>
+<form action ="" id="hppform" onsubmit="calculateTotal();">
+Static Pressure:<input type="number" name="b" value=""><br>
+Residual Pressure:<input type="number" name="a" value=""><br>
+
+<button type="submit" value="Submit">Submit</button>
+</form>
+
+<div id="hpp"></div>
