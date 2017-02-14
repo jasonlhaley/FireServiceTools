@@ -5,9 +5,24 @@ FireServiceTools is an app to help facilitate the everyday needs of any Fire Ser
 <br>
 <br>
 <center>Features:(intentionally left blank until app is done)</center>
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
 <br>
 <br>
 <br>
-<br>
-<br>
-<center><bold><darkblue>Coming Soon:</darkblue></bold></center>
+<center>Coming Soon:</center>
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
