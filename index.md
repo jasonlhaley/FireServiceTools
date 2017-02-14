@@ -4,7 +4,7 @@
 FireServiceTools is an app to help facilitate the everyday needs of any Fire Service Organization, from Paid and Combination departments to Volunteer Departments.  If you have an idea or a request for future builds please feel free to ask us!
 <br>
 <br>
-<center>Features:(intentionally left blank until app is done)</center>
+<center>Features:(intentionally left blank until app is done)
 <ul>
 <li></li>
 <li></li>
@@ -14,15 +14,17 @@ FireServiceTools is an app to help facilitate the everyday needs of any Fire Ser
 <li></li>
 <li></li>
 </ul>
+</center>
 <br>
 <br>
 <br>
-<center>Coming Soon:</center>
+<center>Coming Soon:
 <ul>
-<li></li>
+<li>Windows and Mac Apps</li>
 <li></li>
 <li></li>
 <li></li>
 <li></li>
 <li></li>
 </ul>
+</center>
