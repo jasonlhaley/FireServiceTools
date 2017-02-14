@@ -7,9 +7,7 @@ FireServiceTools is an app to help facilitate the everyday needs of any Fire Ser
 <br>
 <center>
 Features:(intentionally left blank until app is done)</center>
-<ul>{
-    list-style-position: inside;
-}
+<ul>
 <li></li>
 <li></li>
 <li></li>
