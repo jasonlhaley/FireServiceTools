@@ -1,19 +1,15 @@
-<style>
-.center{
-    width:200px;
-    margin:0 auto;
-    text-align:left;
-}
-</style>
+
 <center>Welcome to FireServiceTools IOS and Android HomePage!</center>
 <br>
 <br>
 FireServiceTools is an app to help facilitate the everyday needs of any Fire Service Organization, from Paid and Combination departments to Volunteer Departments.  If you have an idea or a request for future builds please feel free to ask us!
 <br>
 <br>
-<div class="center">
+<center>
 Features:(intentionally left blank until app is done)
-<ul>
+<ul>{
+    list-style-position: inside;
+}
 <li></li>
 <li></li>
 <li></li>
@@ -22,7 +18,7 @@ Features:(intentionally left blank until app is done)
 <li></li>
 <li></li>
 </ul>
-</div>
+</center>
 <br>
 <br>
 <br>
