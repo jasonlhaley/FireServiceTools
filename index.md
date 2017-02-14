@@ -6,7 +6,7 @@ FireServiceTools is an app to help facilitate the everyday needs of any Fire Ser
 <br>
 <br>
 <center>
-Features:(intentionally left blank until app is done)
+Features:(intentionally left blank until app is done)</center>
 <ul>{
     list-style-position: inside;
 }
@@ -18,11 +18,11 @@ Features:(intentionally left blank until app is done)
 <li></li>
 <li></li>
 </ul>
-</center>
+
 <br>
 <br>
 <br>
-<center>Coming Soon:
+<center>Coming Soon:</center>
 <ul>
 <li>Windows and Mac Apps</li>
 <li></li>
@@ -31,4 +31,4 @@ Features:(intentionally left blank until app is done)
 <li></li>
 <li></li>
 </ul>
-</center>
+
